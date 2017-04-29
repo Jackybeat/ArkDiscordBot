@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//ArkDiscordBot/apps.py=utf-8
+encoding//ArkDiscordBot/bot_commands/ark.py=utf-8
+encoding//ArkDiscordBot/bot_commands/arkservernet.py=utf-8
+encoding//ArkDiscordBot/bot_commands/messages.py=utf-8
+encoding//ArkDiscordBot/bot_commands/rcon.py=utf-8
+encoding//ArkDiscordBot/discord/bot_base.py=utf-8
+encoding//ArkDiscordBot/discord/utils.py=utf-8
+encoding//ArkDiscordBot/tasks/ark_chat.py=utf-8
+encoding//ArkDiscordBot/tasks/ark_logs.py=utf-8
+encoding//ark_supervisor/rcon/connection.py=utf-8

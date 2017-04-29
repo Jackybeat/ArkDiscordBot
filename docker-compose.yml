@@ -1,0 +1,10 @@
+version: '3.0'
+
+services:
+  bot:
+    build: .
+    image: arkbot
+    stdin_open: false
+    tty: true
+    restart: always
+  
